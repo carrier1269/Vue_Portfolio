@@ -1,1 +1,3 @@
-doskey ls = dir
+@echo off
+
+dir
