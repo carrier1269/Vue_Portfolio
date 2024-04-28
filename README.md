@@ -12,6 +12,12 @@ Win32 기반 Batchfile 프로그래밍을 통해 cmd 명령어 커스터마이�
 - (Tools) Visual Studio Code, DBeaver
 - (Window) Batchfile
 
+### Git Branch
+- main (배포 서버)
+- dev (개발 서버)
+- dev_gain (개인 개발 브랜치)
+- backup (백업 파일)
+
 ### 초기 설정
 
 #### Vue (Client)
