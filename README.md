@@ -9,6 +9,7 @@
 - (Database) PostgreDB
 - (DevOps) Amazon AWS S3, EC2, Docker, K8S(Kubernetes)
 - (Tools) Visual Studio Code, DBeaver
+- (Window) Batchfile
 
 ### 버전 관리
 - Node.js - v17.9.1
